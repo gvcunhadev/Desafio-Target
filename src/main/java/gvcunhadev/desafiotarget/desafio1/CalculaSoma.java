@@ -11,5 +11,6 @@ public class CalculaSoma {
         }
 
         System.out.println("O valor final de SOMA é: " + SOMA);
+        System.out.println("O valor esperado para SOMA é: 91");
     }
 }
